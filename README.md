@@ -3,8 +3,7 @@
 
 #  Hi!! I'm VARSHA👋
 
-I am a passionate developer based in India, currently pursuing a degree in Computer Science Engineering with a specialization in Artificial Intelligence at Gurugram University. With a keen interest in programming and open-source projects, I aspire to deepen my understanding of programming languages, algorithms, and data structures.
-
+I am a passionate developer based in India, currently pursuing a degree in Computer Science Engineering with a specialization in Artificial Intelligence at Gurugram University. With a keen interest in programming and open-source projects, I aspire to deepen my understanding of programming languages, algorithms, and data structures.<div align="center>
 
 ## About Me
 
@@ -34,3 +33,4 @@ I am a passionate developer based in India, currently pursuing a degree in Compu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Otters hold hands while sleeping to keep from drifting apart! 🦦🦦
 
+</div>
