@@ -1,5 +1,5 @@
 
-![Banner](VARSHA.png)
+<center>![Banner](VARSHA.png)</center>
 
 
 #  Hi!! I'm VARSHA👋
