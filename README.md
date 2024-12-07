@@ -1,10 +1,9 @@
-
 ![Banner](VARSHA.png)
 
-
-#  Hi!! I'm VARSHA👋
+# Hi!! I'm VARSHA👋
 
 I am a passionate developer based in India, currently pursuing a degree in Computer Science Engineering with a specialization in Artificial Intelligence at Gurugram University. With a keen interest in programming and open-source projects, I aspire to deepen my understanding of programming languages, algorithms, and data structures
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshamishra56&label=Profile%20views&color=0e75b6&style=flat" alt="varshamishra56" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshamishra56" alt="varshamishra56" /></a> </p>
@@ -27,8 +26,7 @@ I am a passionate developer based in India, currently pursuing a degree in Compu
 
 ## Reach Me
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/varsha56/)  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/varsha56)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-mishra-b23729252) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vm0222912@gmail.com)  [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/profile/Varsha56)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/varsha56/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/varsha56) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-mishra-b23729252) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vm0222912@gmail.com) [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/profile/Varsha56)
 
 ## 💻 Tech Stack
 
