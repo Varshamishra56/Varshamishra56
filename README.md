@@ -1,4 +1,9 @@
 ![Banner](VARSHA.png)
+</div>
+<div align="center">
+<img src="https://github.com/Varshamishra56/Varshamishra56/blob/main/images/preview.gif">
+</div>
+</p>
 
 # Hi!! I'm VARSHA👋
 
@@ -8,12 +13,6 @@ I am a passionate developer based in India, currently pursuing a degree in Compu
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshamishra56" alt="varshamishra56" /></a> </p>
 <div align="center">
-
-</div>
-<div align="center">
-<img src="https://github.com/Varshamishra56/Varshamishra56/blob/main/images/preview.gif">
-</div>
-</p>
   
 ## About Me
 
