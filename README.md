@@ -1,4 +1,4 @@
-![Banner](VARSHA.png)
+
 </div>
 <div align="center">
 <img src="https://github.com/Varshamishra56/Varshamishra56/blob/main/images/preview.gif">
